@@ -1,0 +1,22 @@
+{
+  "name": "alfred-setapp",
+  "version": "1.0.1",
+  "description": "Search Setapp apps",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "author": "Martín M.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skydiver/alfred-setapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skydiver/alfred-setapp/issues"
+  },
+  "dependencies": {
+    "alfy": "^0.7.0"
+  }
+}
