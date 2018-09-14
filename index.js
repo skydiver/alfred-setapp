@@ -1,5 +1,8 @@
 const alfy = require('alfy');
+const alfredNotifier = require('alfred-notifier');
 const apps = require('./data/apps.json');
+
+alfredNotifier();
 
 const items = alfy
   .inputMatches(apps, 'name')
