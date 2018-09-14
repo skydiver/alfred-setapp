@@ -16,6 +16,13 @@
   "bugs": {
     "url": "https://github.com/skydiver/alfred-setapp/issues"
   },
+  "keywords": [
+    "alfred",
+    "alfred-workflow",
+    "alfred3-workflow",
+    "setapp",
+    "alfy"
+  ],
   "dependencies": {
     "alfy": "^0.7.0"
   }
