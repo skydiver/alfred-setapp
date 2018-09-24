@@ -12,7 +12,43 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
+				<string>8B072919-3849-4915-A1A1-9DB2429FC22E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5697568B-C21C-4B15-A376-2935DCE633CA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5697568B-C21C-4B15-A376-2935DCE633CA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
 				<string>5BC7BDCC-F4E5-4F0E-A6D7-CE9559877460</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8B072919-3849-4915-A1A1-9DB2429FC22E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>62AACEF2-AECC-414C-99DA-2989BA2E8536</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -32,25 +68,6 @@
 	<string>Setapp</string>
 	<key>objects</key>
 	<array>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>5BC7BDCC-F4E5-4F0E-A6D7-CE9559877460</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -98,6 +115,78 @@
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>openwith</key>
+				<string></string>
+				<key>sourcefile</key>
+				<string>{query}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openfile</string>
+			<key>uid</key>
+			<string>62AACEF2-AECC-414C-99DA-2989BA2E8536</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>/Users/Shared/Setapp/Apps/</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>8B072919-3849-4915-A1A1-9DB2429FC22E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>5BC7BDCC-F4E5-4F0E-A6D7-CE9559877460</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>https://setapp.com</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>5697568B-C21C-4B15-A376-2935DCE633CA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>Search Setapp apps</string>
@@ -106,16 +195,37 @@
 		<key>282F76F8-E23F-4BAC-8667-0F286A318D84</key>
 		<dict>
 			<key>xpos</key>
-			<integer>140</integer>
+			<integer>90</integer>
 			<key>ypos</key>
-			<integer>200</integer>
+			<integer>70</integer>
+		</dict>
+		<key>5697568B-C21C-4B15-A376-2935DCE633CA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>310</integer>
+			<key>ypos</key>
+			<integer>240</integer>
 		</dict>
 		<key>5BC7BDCC-F4E5-4F0E-A6D7-CE9559877460</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<integer>440</integer>
 			<key>ypos</key>
-			<integer>200</integer>
+			<integer>210</integer>
+		</dict>
+		<key>62AACEF2-AECC-414C-99DA-2989BA2E8536</key>
+		<dict>
+			<key>xpos</key>
+			<integer>440</integer>
+			<key>ypos</key>
+			<integer>70</integer>
+		</dict>
+		<key>8B072919-3849-4915-A1A1-9DB2429FC22E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>310</integer>
+			<key>ypos</key>
+			<integer>100</integer>
 		</dict>
 	</dict>
 	<key>version</key>
