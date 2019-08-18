@@ -1,5 +1,6 @@
 # alfred-setapp
-> Search Setapp apps
+> Search Setapp apps from Alfred
 
 ## Installation
-1. npm install -g alfred-setapp
+1. open your console
+2. run `npm install -g alfred-setapp`
