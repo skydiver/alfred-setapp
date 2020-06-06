@@ -1,10 +1,10 @@
 [
     {
-        "image": "https://imgix.setapp.com/app/68/2896/icon-1586728203-5e938d0bc15c3.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/68/3002/icon-1589145448-5eb86f68bae68.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "2Do",
         "description": "Plan all your activities in a smarter way",
         "link": "https://setapp.com/apps/2do",
-        "icon": "icon-1586728203-5e938d0bc15c3.png"
+        "icon": "icon-1589145448-5eb86f68bae68.png"
     },
     {
         "image": "https://imgix.setapp.com/app/196/1717/icon-1548746580-5c4fff54dc54b.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -49,18 +49,25 @@
         "icon": "icon-1579899362-5e2b59e2c279d.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/153/2304/icon-1570190631-5d9735279dae4.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/153/3079/icon-1591090631-5ed61dc7a6698.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Bartender",
         "description": "Take full control of your menu bar icons",
         "link": "https://setapp.com/apps/bartender",
-        "icon": "icon-1570190631-5d9735279dae4.png"
+        "icon": "icon-1591090631-5ed61dc7a6698.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/135/2767/icon-1583681186-5e650ea234a72.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/135/3029/icon-1589725766-5ec14a461274a.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Base",
         "description": "Browse and edit your SQLite 3 files",
         "link": "https://setapp.com/apps/base",
-        "icon": "icon-1583681186-5e650ea234a72.png"
+        "icon": "icon-1589725766-5ec14a461274a.png"
+    },
+    {
+        "image": "https://imgix.setapp.com/app/393/2915/icon-1588392042-5eacf06a9aa03.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "name": "Batteries",
+        "description": "Keep track of battery level for all of your devices",
+        "link": "https://setapp.com/apps/batteries",
+        "icon": "icon-1588392042-5eacf06a9aa03.png"
     },
     {
         "image": "https://imgix.setapp.com/app/173/2273/icon-1568976559-5d84aeaf3b3f3.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -84,11 +91,11 @@
         "icon": "icon-1564094309-5d3a2f6562120.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/295/2920/icon-1587384642-5e9d9142a36f7.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/295/2988/icon-1588854322-5eb3fe322a960.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "BetterTouchTool",
         "description": "Take full control of your Mac's input devices",
         "link": "https://setapp.com/apps/bettertouchtool",
-        "icon": "icon-1587384642-5e9d9142a36f7.png"
+        "icon": "icon-1588854322-5eb3fe322a960.png"
     },
     {
         "image": "https://imgix.setapp.com/app/245/2314/icon-1570522338-5d9c44e2e5d2f.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -105,18 +112,18 @@
         "icon": "icon-1582007944-5e4b8688ef7dc.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/304/2720/icon-1582078156-5e4c98cce5c1b.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/304/3084/icon-1591242352-5ed86e70497df.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "BusyCal",
         "description": "Take full control of all your schedule",
         "link": "https://setapp.com/apps/busycal",
-        "icon": "icon-1582078156-5e4c98cce5c1b.png"
+        "icon": "icon-1591242352-5ed86e70497df.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/369/2676/icon-1580875225-5e3a3dd9dca07.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/369/3083/icon-1591242393-5ed86e99789a5.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "BusyContacts",
         "description": "Manage your contacts efficiently",
         "link": "https://setapp.com/apps/busycontacts",
-        "icon": "icon-1580875225-5e3a3dd9dca07.png"
+        "icon": "icon-1591242393-5ed86e99789a5.png"
     },
     {
         "image": "https://imgix.setapp.com/app/299/2575/icon-1577783631-5e0b114f6cc97.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -126,11 +133,11 @@
         "icon": "icon-1577783631-5e0b114f6cc97.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/307/2759/icon-1583308966-5e5f60a68d550.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/307/3005/icon-1589202734-5eb94f2e9d270.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Canary Mail",
         "description": "Beautify your emailing experience",
         "link": "https://setapp.com/apps/canary-mail",
-        "icon": "icon-1583308966-5e5f60a68d550.png"
+        "icon": "icon-1589202734-5eb94f2e9d270.png"
     },
     {
         "image": "https://imgix.setapp.com/app/277/1288/icon-1533919226-5b6dbffa29a75.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -168,18 +175,18 @@
         "icon": "icon-1578700342-5e190e362e969.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/78/2882/icon-1586357955-5e8de6c3dd7ee.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/78/3020/icon-1589398821-5ebc4d25be506.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "CleanMyMac X",
         "description": "Free up disk space, protect and speed up Mac",
         "link": "https://setapp.com/apps/cleanmymac",
-        "icon": "icon-1586357955-5e8de6c3dd7ee.png"
+        "icon": "icon-1589398821-5ebc4d25be506.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/321/2971/icon-1588675763-5eb144b3cd3fe.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/321/3041/icon-1590055148-5ec650ec07c52.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "CleanShot X",
         "description": "Take screenshots better than you did before",
         "link": "https://setapp.com/apps/cleanshot",
-        "icon": "icon-1588675763-5eb144b3cd3fe.png"
+        "icon": "icon-1590055148-5ec650ec07c52.png"
     },
     {
         "image": "https://imgix.setapp.com/app/174/2267/icon-1568814365-5d82351dbdaa6.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -203,11 +210,11 @@
         "icon": "icon-1573243226-5dc5c95a1b901.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/363/2807/icon-1584910718-5e77d17e6bad1.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
-        "name": "Coherence Pro",
+        "image": "https://imgix.setapp.com/app/363/3025/icon-1589578142-5ebf099ec95e4.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "name": "Coherence X",
         "description": "Turn any website into a Chrome based app",
         "link": "https://setapp.com/apps/coherence-pro",
-        "icon": "icon-1584910718-5e77d17e6bad1.png"
+        "icon": "icon-1589578142-5ebf099ec95e4.png"
     },
     {
         "image": "https://imgix.setapp.com/app/366/2821/icon-1585141309-5e7b563d6e99e.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -224,11 +231,11 @@
         "icon": "icon-1585494668-5e80ba8c97096.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/311/2604/icon-1578836355-5e1b2183e6651.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/311/3044/icon-1590052538-5ec646ba6b05e.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "DCommander",
         "description": "Go dual-pane with your file management",
         "link": "https://setapp.com/apps/dcommander",
-        "icon": "icon-1578836355-5e1b2183e6651.png"
+        "icon": "icon-1590052538-5ec646ba6b05e.png"
     },
     {
         "image": "https://imgix.setapp.com/app/262/1456/icon-1539081432-5bbc84d8137b4.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -238,11 +245,11 @@
         "icon": "icon-1539081432-5bbc84d8137b4.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/347/2937/icon-1587744408-5ea30e98a3fee.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/347/3067/icon-1590823003-5ed2085bf263a.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Diarly",
         "description": "Keep your personal diary neatly organized",
         "link": "https://setapp.com/apps/diarly",
-        "icon": "icon-1587744408-5ea30e98a3fee.png"
+        "icon": "icon-1590823003-5ed2085bf263a.png"
     },
     {
         "image": "https://imgix.setapp.com/app/82/2613/icon-1582096149-5e4cdf1507f50.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -252,11 +259,11 @@
         "icon": "icon-1582096149-5e4cdf1507f50.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/222/2966/icon-1588582258-5eafd7723deb7.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/222/3076/icon-1591078052-5ed5eca421764.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Downie",
         "description": "Download media from the web",
         "link": "https://setapp.com/apps/downie",
-        "icon": "icon-1588582258-5eafd7723deb7.png"
+        "icon": "icon-1591078052-5ed5eca421764.png"
     },
     {
         "image": "https://imgix.setapp.com/app/250/2957/icon-1588274717-5eab261dd7ddd.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -273,11 +280,11 @@
         "icon": "icon-1587030683-5e982a9b7e4b9.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/178/2888/icon-1586435421-5e8f155d07542.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/178/3072/icon-1591025975-5ed5213758963.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Elmedia Player",
         "description": "Play media files of any format",
         "link": "https://setapp.com/apps/elmedia-player",
-        "icon": "icon-1586435421-5e8f155d07542.png"
+        "icon": "icon-1591025975-5ed5213758963.png"
     },
     {
         "image": "https://imgix.setapp.com/app/273/1204/icon-1531287477-5b4597b570e35.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -350,18 +357,18 @@
         "icon": "icon-1533035546-5b60441a61235.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/202/2887/icon-1586431013-5e8f0425d4b4f.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/202/3071/icon-1591024023-5ed5199723477.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Folx",
         "description": "Download files and torrents really fast",
         "link": "https://setapp.com/apps/folx",
-        "icon": "icon-1586431013-5e8f0425d4b4f.png"
+        "icon": "icon-1591024023-5ed5199723477.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/234/2302/icon-1570111007-5d95fe1f307a0.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/234/3040/icon-1589899969-5ec3f2c186632.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Forecast Bar",
         "description": "Know exact weather anywhere",
         "link": "https://setapp.com/apps/forecast-bar",
-        "icon": "icon-1570111007-5d95fe1f307a0.png"
+        "icon": "icon-1589899969-5ec3f2c186632.png"
     },
     {
         "image": "https://imgix.setapp.com/app/253/2949/icon-1588083871-5ea83c9fe3cf7.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -378,18 +385,18 @@
         "icon": "icon-1580101599-5e2e6fdf1d99a.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/79/2886/icon-1586427240-5e8ef5684e918.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/79/2993/icon-1588959212-5eb597ec9e9c3.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Gemini",
         "description": "Remove duplicate files from your Mac",
         "link": "https://setapp.com/apps/gemini",
-        "icon": "icon-1586427240-5e8ef5684e918.png"
+        "icon": "icon-1588959212-5eb597ec9e9c3.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/210/2943/icon-1588000554-5ea6f72a5a527.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/210/3058/icon-1590568368-5ece25b088d9d.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Get Backup Pro",
         "description": "Keep your Mac backed up and protected",
         "link": "https://setapp.com/apps/get-backup-pro",
-        "icon": "icon-1588000554-5ea6f72a5a527.png"
+        "icon": "icon-1590568368-5ece25b088d9d.png"
     },
     {
         "image": "https://imgix.setapp.com/app/374/2380/icon-1575904907-5dee668b94e66.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -413,11 +420,11 @@
         "icon": "icon-1544910407-5c157647a1905.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/385/2956/icon-1588255503-5eaadb0fdf42e.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/385/3081/icon-1591109342-5ed666de37921.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Gitfox",
         "description": "Powerful Git Client for Mac OS",
         "link": "https://setapp.com/apps/gitfox",
-        "icon": "icon-1588255503-5eaadb0fdf42e.png"
+        "icon": "icon-1591109342-5ed666de37921.png"
     },
     {
         "image": "https://imgix.setapp.com/app/324/2276/icon-1569085653-5d8658d56f466.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -441,11 +448,11 @@
         "icon": "icon-1581168590-5e3eb7ceb249b.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/206/2890/icon-1586500082-5e9011f285ce1.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/206/3075/icon-1591069771-5ed5cc4b39845.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "GoodTask",
         "description": "Keep all your tasks in one place",
         "link": "https://setapp.com/apps/goodtask",
-        "icon": "icon-1586500082-5e9011f285ce1.png"
+        "icon": "icon-1591069771-5ed5cc4b39845.png"
     },
     {
         "image": "https://imgix.setapp.com/app/212/2441/icon-1573555546-5dca8d5a00c26.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -462,11 +469,11 @@
         "icon": "icon-1588545187-5eaf46a3975be.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/192/2551/icon-1576547103-5df8331f929c0.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/192/3056/icon-1590566826-5ece1faa2698c.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Hype",
         "description": "Create animated web content",
         "link": "https://setapp.com/apps/hype",
-        "icon": "icon-1576547103-5df8331f929c0.png"
+        "icon": "icon-1590566826-5ece1faa2698c.png"
     },
     {
         "image": "https://imgix.setapp.com/app/296/2924/icon-1587475944-5e9ef5e8ad78c.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -476,11 +483,11 @@
         "icon": "icon-1587475944-5e9ef5e8ad78c.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/264/2793/icon-1584394767-5e6ff20f57570.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/264/3086/icon-1591302035-5ed95793b41ee.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "IconJar",
         "description": "Store all your icons in one place, just a click away",
         "link": "https://setapp.com/apps/iconjar",
-        "icon": "icon-1584394767-5e6ff20f57570.png"
+        "icon": "icon-1591302035-5ed95793b41ee.png"
     },
     {
         "image": "https://imgix.setapp.com/app/195/2721/icon-1582122013-5e4d441d86177.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -504,18 +511,18 @@
         "icon": "icon-1576864959-5dfd0cbfb4df9.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/75/2928/icon-1587570226-5ea06632d9a40.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/75/2991/icon-1588884303-5eb4734f4c918.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Jump Desktop",
         "description": "Access any computer from your Mac",
         "link": "https://setapp.com/apps/jump-desktop",
-        "icon": "icon-1587570226-5ea06632d9a40.png"
+        "icon": "icon-1588884303-5eb4734f4c918.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/370/2565/icon-1577354707-5e0485d3288eb.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/370/3085/icon-1591282805-5ed90c7557aaf.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "JustStream",
         "description": "Stream your videos or mirror Mac display to TV",
         "link": "https://setapp.com/apps/juststream",
-        "icon": "icon-1577354707-5e0485d3288eb.png"
+        "icon": "icon-1591282805-5ed90c7557aaf.png"
     },
     {
         "image": "https://imgix.setapp.com/app/274/2035/icon-1560341591-5d00ec57400f6.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -539,11 +546,11 @@
         "icon": "icon-1562577146-5d2308fa07e6e.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/270/2235/icon-1567756657-5d7211712e89e.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/270/3011/icon-1589267157-5eba4ad57ab1a.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Lungo",
         "description": "Prevent your Mac from going to sleep",
         "link": "https://setapp.com/apps/lungo",
-        "icon": "icon-1567756657-5d7211712e89e.png"
+        "icon": "icon-1589267157-5eba4ad57ab1a.png"
     },
     {
         "image": "https://imgix.setapp.com/app/282/676/icon-1509646262-59fb5fb64ad64.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -567,11 +574,11 @@
         "icon": "icon-1582637839-5e55230f7685e.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/323/2839/icon-1585612415-5e82867f14d0f.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/323/3082/icon-1591195243-5ed7b66b09e01.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "MarginNote",
         "description": "Study better with powerful annotation",
         "link": "https://setapp.com/apps/marginnote",
-        "icon": "icon-1585612415-5e82867f14d0f.png"
+        "icon": "icon-1591195243-5ed7b66b09e01.png"
     },
     {
         "image": "https://imgix.setapp.com/app/80/2902/icon-1586953230-5e96fc0e1bbd8.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -609,18 +616,18 @@
         "icon": "icon-1588583160-5eafdaf89853f.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/356/2492/icon-1574645564-5ddb2f3c45be5.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/356/3047/icon-1590098060-5ec6f88cdd2ce.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "MetaImage",
         "description": "Edit and adjust image metadata with ease",
         "link": "https://setapp.com/apps/metaimage",
-        "icon": "icon-1574645564-5ddb2f3c45be5.png"
+        "icon": "icon-1590098060-5ec6f88cdd2ce.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/320/2925/icon-1587541384-5e9ff5880bf94.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/320/3021/icon-1589467738-5ebd5a5ab9d68.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "MindNode",
         "description": "Visualize your ideas with mind maps",
         "link": "https://setapp.com/apps/mindnode",
-        "icon": "icon-1587541384-5e9ff5880bf94.png"
+        "icon": "icon-1589467738-5ebd5a5ab9d68.png"
     },
     {
         "image": "https://imgix.setapp.com/app/376/2918/icon-1587316808-5e9c88484d9eb.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -637,11 +644,11 @@
         "icon": "icon-1587307813-5e9c6525066cc.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/215/2938/icon-1587799118-5ea3e44eeb8af.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/215/3070/icon-1591058116-5ed59ec4744b5.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "MoneyWiz",
         "description": "Keep your budget in perfect order",
         "link": "https://setapp.com/apps/moneywiz",
-        "icon": "icon-1587799118-5ea3e44eeb8af.png"
+        "icon": "icon-1591058116-5ed59ec4744b5.png"
     },
     {
         "image": "https://imgix.setapp.com/app/314/2246/icon-1568386040-5d7babf8d6885.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -665,18 +672,18 @@
         "icon": "icon-1586340524-5e8da2ac271ed.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/335/2473/icon-1574180171-5dd4154b37c01.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/335/3045/icon-1590072583-5ec695075da97.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Movie Explorer Pro",
         "description": "Organize your movie collection beautifully",
         "link": "https://setapp.com/apps/movie-explorer-pro",
-        "icon": "icon-1574180171-5dd4154b37c01.png"
+        "icon": "icon-1590072583-5ec695075da97.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/344/2917/icon-1587306772-5e9c611496a85.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/344/3052/icon-1590228020-5ec8f4344c154.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Movist Pro",
         "description": "Watch and adjust any media files to your liking",
         "link": "https://setapp.com/apps/movist-pro",
-        "icon": "icon-1587306772-5e9c611496a85.png"
+        "icon": "icon-1590228020-5ec8f4344c154.png"
     },
     {
         "image": "https://imgix.setapp.com/app/223/2682/icon-1581428127-5e42ad9fee66d.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -700,18 +707,18 @@
         "icon": "icon-1560941143-5d0a12579f665.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/280/2960/icon-1588349075-5eac4893d23da.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/280/3065/icon-1590783163-5ed16cbbe7665.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "NotePlan",
         "description": "Organize your life with the benefits of markdown",
         "link": "https://setapp.com/apps/noteplan",
-        "icon": "icon-1588349075-5eac4893d23da.png"
+        "icon": "icon-1590783163-5ed16cbbe7665.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/186/2573/icon-1577727399-5e0a35a78a91d.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/186/3055/icon-1590518144-5ecd6180c9942.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Numi",
         "description": "Calculate anything, anywhere",
         "link": "https://setapp.com/apps/numi",
-        "icon": "icon-1577727399-5e0a35a78a91d.png"
+        "icon": "icon-1590518144-5ecd6180c9942.png"
     },
     {
         "image": "https://imgix.setapp.com/app/349/2909/icon-1587138228-5e99ceb4a21ef.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -721,60 +728,60 @@
         "icon": "icon-1587138228-5e99ceb4a21ef.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/272/2927/icon-1587569233-5ea06251b64d4.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/272/3059/icon-1590613435-5eced5bb22835.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "PDF Search",
         "description": "Search within PDFs with maximum relevance",
         "link": "https://setapp.com/apps/pdf-search",
-        "icon": "icon-1587569233-5ea06251b64d4.png"
+        "icon": "icon-1590613435-5eced5bb22835.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/188/2213/icon-1566937778-5d6592b24044b.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/188/3087/icon-1591310090-5ed9770ae0b56.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "PDF Squeezer",
         "description": "Make large PDFs lighter",
         "link": "https://setapp.com/apps/pdf-squeezer",
-        "icon": "icon-1566937778-5d6592b24044b.png"
+        "icon": "icon-1591310090-5ed9770ae0b56.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/322/2954/icon-1588212699-5eaa33dbd86d5.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/322/3010/icon-1589254330-5eba18ba4a59d.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "PDFpen",
         "description": "Edit and create PDFs using powerful tools",
         "link": "https://setapp.com/apps/pdfpen",
-        "icon": "icon-1588212699-5eaa33dbd86d5.png"
+        "icon": "icon-1589254330-5eba18ba4a59d.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/70/2936/icon-1587735503-5ea2ebcf680bf.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/70/3046/icon-1590086560-5ec6cba0bb9fe.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Pagico",
         "description": "Manage tasks and projects",
         "link": "https://setapp.com/apps/pagico",
-        "icon": "icon-1587735503-5ea2ebcf680bf.png"
+        "icon": "icon-1590086560-5ec6cba0bb9fe.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/98/2970/icon-1588658246-5eb10046b482f.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/98/3050/icon-1590127718-5ec76c6625b1a.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Paste",
         "description": "Use a smart clipboard for your work",
         "link": "https://setapp.com/apps/paste",
-        "icon": "icon-1588658246-5eb10046b482f.png"
+        "icon": "icon-1590127718-5ec76c6625b1a.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/362/2923/icon-1587411633-5e9dfab111aee.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/362/3078/icon-1591086857-5ed60f094fdb6.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Path Finder",
         "description": "Manage your files with tons of features",
         "link": "https://setapp.com/apps/path-finder",
-        "icon": "icon-1587411633-5e9dfab111aee.png"
+        "icon": "icon-1591086857-5ed60f094fdb6.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/94/2358/icon-1571417290-5da9ecca5d042.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/94/2999/icon-1589132811-5eb83e0b350de.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Paw",
         "description": "Send HTTP requests, describe RESTful APIs",
         "link": "https://setapp.com/apps/paw",
-        "icon": "icon-1571417290-5da9ecca5d042.png"
+        "icon": "icon-1589132811-5eb83e0b350de.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/219/2968/icon-1588583506-5eafdc52035fa.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/219/3077/icon-1591077990-5ed5ec6681381.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Permute",
         "description": "Convert any media into any format",
         "link": "https://setapp.com/apps/permute",
-        "icon": "icon-1588583506-5eafdc52035fa.png"
+        "icon": "icon-1591077990-5ed5ec6681381.png"
     },
     {
         "image": "https://imgix.setapp.com/app/286/2256/icon-1568622159-5d7f464f85e58.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -791,11 +798,11 @@
         "icon": "icon-1544027536-5c07fd90f0216.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/358/2946/icon-1588060775-5ea7e2676cde5.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/358/3028/icon-1589630824-5ebfd768d27ff.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "PixelSnap",
         "description": "Accurately measure any proportion on your screen",
         "link": "https://setapp.com/apps/pixelsnap",
-        "icon": "icon-1588060775-5ea7e2676cde5.png"
+        "icon": "icon-1589630824-5ebfd768d27ff.png"
     },
     {
         "image": "https://imgix.setapp.com/app/355/2899/icon-1586871643-5e95bd5b0a383.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -812,25 +819,18 @@
         "icon": "icon-1582532889-5e538919ab249.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/281/1729/icon-1549026069-5c544315171d1.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
-        "name": "ProWritingAid",
-        "description": "Write with perfect style, grammar and readability",
-        "link": "https://setapp.com/apps/prowritingaid",
-        "icon": "icon-1549026069-5c544315171d1.png"
-    },
-    {
-        "image": "https://imgix.setapp.com/app/346/2965/icon-1588564266-5eaf912a61e9d.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/346/3069/icon-1590897661-5ed32bfdeda68.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Proxyman",
         "description": "View network requests from apps and domains",
         "link": "https://setapp.com/apps/proxyman",
-        "icon": "icon-1588564266-5eaf912a61e9d.png"
+        "icon": "icon-1590897661-5ed32bfdeda68.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/371/2972/icon-1588677574-5eb14bc68aeb5.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/371/3053/icon-1590320232-5eca5c68d8079.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Pulltube",
         "description": "Download, trim, convert online video or audio",
         "link": "https://setapp.com/apps/pulltube",
-        "icon": "icon-1588677574-5eb14bc68aeb5.png"
+        "icon": "icon-1590320232-5eca5c68d8079.png"
     },
     {
         "image": "https://imgix.setapp.com/app/64/2941/icon-1587993360-5ea6db10118a8.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -868,11 +868,11 @@
         "icon": "icon-1567157839-5d68ee4f6f508.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/230/2973/icon-1588695174-5eb1908655e33.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/230/3022/icon-1589476073-5ebd7ae99673d.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "SQLPro Studio",
         "description": "Manage Postgres and MySQL databases",
         "link": "https://setapp.com/apps/sqlpro-studio",
-        "icon": "icon-1588695174-5eb1908655e33.png"
+        "icon": "icon-1589476073-5ebd7ae99673d.png"
     },
     {
         "image": "https://imgix.setapp.com/app/333/2858/icon-1585846830-5e861a2ee0ec3.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -882,11 +882,11 @@
         "icon": "icon-1585846830-5e861a2ee0ec3.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/395/2913/icon-1587399720-5e9dcc28a68cf.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/395/3073/icon-1591039818-5ed5574ab0bec.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "SSH Config Editor",
         "description": "Manage your OpenSSH client configuration",
         "link": "https://setapp.com/apps/ssh-config-editor",
-        "icon": "icon-1587399720-5e9dcc28a68cf.png"
+        "icon": "icon-1591039818-5ed5574ab0bec.png"
     },
     {
         "image": "https://imgix.setapp.com/app/218/2942/icon-1587997563-5ea6eb7be0a4c.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -917,11 +917,11 @@
         "icon": "icon-1572795673-5dbef51911165.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/383/2806/icon-1584909985-5e77cea1bbb0d.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/383/3038/icon-1589873759-5ec38c5fa184a.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Short Menu",
         "description": "Shorten your URLs",
         "link": "https://setapp.com/apps/short-menu",
-        "icon": "icon-1584909985-5e77cea1bbb0d.png"
+        "icon": "icon-1589873759-5ec38c5fa184a.png"
     },
     {
         "image": "https://imgix.setapp.com/app/365/2810/icon-1584959231-5e788eff54a9e.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -959,11 +959,11 @@
         "icon": "icon-1572656089-5dbcd3d997103.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/367/2855/icon-1585849995-5e86268b753ab.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/367/3018/icon-1589383494-5ebc11464a66c.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Slidepad",
         "description": "Use slide over browser to improve your multitasking",
         "link": "https://setapp.com/apps/slidepad",
-        "icon": "icon-1585849995-5e86268b753ab.png"
+        "icon": "icon-1589383494-5ebc11464a66c.png"
     },
     {
         "image": "https://imgix.setapp.com/app/125/162/icon-1569478741-5d8c5855b7614.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -1015,11 +1015,11 @@
         "icon": "icon-1588142207-5ea9207fbf3bf.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/297/2912/icon-1587173805-5e9a59ad3d0ce.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/297/3057/icon-1590568141-5ece24cd7ce66.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "TablePlus",
         "description": "Manage multiple databases the easy way",
         "link": "https://setapp.com/apps/tableplus",
-        "icon": "icon-1587173805-5e9a59ad3d0ce.png"
+        "icon": "icon-1590568141-5ece24cd7ce66.png"
     },
     {
         "image": "https://imgix.setapp.com/app/213/2709/icon-1581609626-5e45729a1c92b.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -1029,11 +1029,11 @@
         "icon": "icon-1581609626-5e45729a1c92b.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/326/2911/icon-1587159816-5e9a230848a02.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/326/3074/icon-1591040356-5ed55964f2741.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Taskheat",
         "description": "Plan a detailed path to any of your goals",
         "link": "https://setapp.com/apps/taskheat",
-        "icon": "icon-1587159816-5e9a230848a02.png"
+        "icon": "icon-1591040356-5ed55964f2741.png"
     },
     {
         "image": "https://imgix.setapp.com/app/255/1513/icon-1540894506-5bd82f2a38cd0.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -1071,11 +1071,11 @@
         "icon": "icon-1586533684-5e9095349d6bf.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/380/2974/icon-1588752638-5eb270fe18cac.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/380/3049/icon-1590129156-5ec77204410d1.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Timemator",
         "description": "Track everything you do on your Mac",
         "link": "https://setapp.com/apps/timemator",
-        "icon": "icon-1588752638-5eb270fe18cac.png"
+        "icon": "icon-1590129156-5ec77204410d1.png"
     },
     {
         "image": "https://imgix.setapp.com/app/184/2929/icon-1587649441-5ea19ba1edda9.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -1085,11 +1085,11 @@
         "icon": "icon-1587649441-5ea19ba1edda9.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/319/2570/icon-1577634908-5e08cc5c4869e.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/319/3080/icon-1591107404-5ed65f4c97314.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "ToothFairy",
         "description": "Connect your Bluetooth headphones in a click",
         "link": "https://setapp.com/apps/toothfairy",
-        "icon": "icon-1577634908-5e08cc5c4869e.png"
+        "icon": "icon-1591107404-5ed65f4c97314.png"
     },
     {
         "image": "https://imgix.setapp.com/app/298/1467/icon-1540461708-5bd1948cf1a17.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -1127,11 +1127,11 @@
         "icon": "icon-1588585067-5eafe26be1924.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/67/2948/icon-1588079885-5ea82d0ddbecf.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/67/3024/icon-1589543579-5ebe829bb06a5.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Ulysses",
         "description": "Write your first novel",
         "link": "https://setapp.com/apps/ulysses",
-        "icon": "icon-1588079885-5ea82d0ddbecf.png"
+        "icon": "icon-1589543579-5ebe829bb06a5.png"
     },
     {
         "image": "https://imgix.setapp.com/app/242/2756/icon-1583257186-5e5e966216fd8.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -1155,11 +1155,25 @@
         "icon": "icon-1587688444-5ea233fc14647.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/391/2898/icon-1586962999-5e9722379607f.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/391/3039/icon-1589874689-5ec390012394e.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "Uplet",
         "description": "Upload photos and videos to instagram",
         "link": "https://setapp.com/apps/uplet",
-        "icon": "icon-1586962999-5e9722379607f.png"
+        "icon": "icon-1589874689-5ec390012394e.png"
+    },
+    {
+        "image": "https://imgix.setapp.com/app/390/2926/icon-1588244204-5eaaaeecbf2a1.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "name": "Vidrio",
+        "description": "Use holographic screencasting",
+        "link": "https://setapp.com/apps/vidrio",
+        "icon": "icon-1588244204-5eaaaeecbf2a1.png"
+    },
+    {
+        "image": "https://imgix.setapp.com/app/394/3060/icon-1590678116-5ecfd264c541b.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "name": "VirtualHostX",
+        "description": "Build and test web apps",
+        "link": "https://setapp.com/apps/virtualhostx",
+        "icon": "icon-1590678116-5ecfd264c541b.png"
     },
     {
         "image": "https://imgix.setapp.com/app/252/1703/icon-1548766005-5c504b35d2c57.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
@@ -1260,11 +1274,11 @@
         "icon": "icon-1581083641-5e3d6bf953434.png"
     },
     {
-        "image": "https://imgix.setapp.com/app/377/2910/icon-1587204158-5e9ad03e636a5.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
+        "image": "https://imgix.setapp.com/app/377/2998/icon-1589106530-5eb7d76296c09.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
         "name": "start",
         "description": "Organize and swiftly open your apps, docs or folders",
         "link": "https://setapp.com/apps/start",
-        "icon": "icon-1587204158-5e9ad03e636a5.png"
+        "icon": "icon-1589106530-5eb7d76296c09.png"
     },
     {
         "image": "https://imgix.setapp.com/app/306/2961/icon-1588359359-5eac70bf5640f.png?auto=format&ixlib=php-2.3.0&q=75&w=160",
