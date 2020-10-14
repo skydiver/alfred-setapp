@@ -1,6 +1,6 @@
 {
   "name": "alfred-setapp",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "Search Setapp apps",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "alfred-notifier": "^0.2.3",
-    "alfy": "^0.9.1",
+    "alfy": "^0.10.0",
     "directory-exists": "^2.0.1"
   }
 }
