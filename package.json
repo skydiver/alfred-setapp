@@ -1,6 +1,6 @@
 {
   "name": "alfred-setapp",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "description": "Search Setapp apps",
   "main": "index.js",
   "scripts": {
