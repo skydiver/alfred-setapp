@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "alfred-notifier": "^0.2.3",
-    "alfy": "^0.10.0",
+    "alfy": "^1.1.0",
     "directory-exists": "^2.0.1"
   }
 }
